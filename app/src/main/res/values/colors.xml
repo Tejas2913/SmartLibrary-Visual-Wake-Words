@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_dark">#0B132B</color>
+    <color name="surface_dark">#16213E</color>
+    <color name="surface_card">#1C2541</color>
+    <color name="surface_card_border">#3A506B</color>
+    <color name="accent_cyan">#48CAE4</color>
+    <color name="accent_blue">#0077B6</color>
+    
+    <color name="status_occupied">#10B981</color>
+    <color name="status_occupied_bg">#1A10B981</color>
+    <color name="status_vacant">#6B7280</color>
+    <color name="status_vacant_bg">#1A6B7280</color>
+    
+    <color name="light_amber_on">#F59E0B</color>
+    <color name="light_amber_glow">#4DF59E0B</color>
+    <color name="light_card_on_bg">#231D12</color>
+    <color name="light_card_off_bg">#161E2E</color>
+    <color name="light_dim_off">#4B5563</color>
+    
+    <color name="text_primary">#F9FAFB</color>
+    <color name="text_secondary">#9CA3AF</color>
+    <color name="text_muted">#6B7280</color>
+    
+    <color name="color_primary">#48CAE4</color>
+    <color name="color_on_primary">#0B132B</color>
+</resources>

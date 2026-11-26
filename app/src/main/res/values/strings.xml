@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Smart Library</string>
+    <string name="app_subtitle">TinyML Occupancy Detection</string>
+    <string name="bay_identifier">Reading Bay 01 • Physical Torch Actuator</string>
+    
+    <string name="status_occupied">OCCUPIED</string>
+    <string name="status_unoccupied">UNOCCUPIED</string>
+    <string name="person_detected">PERSON DETECTED</string>
+    <string name="no_person_detected">NO PERSON DETECTED</string>
+    
+    <string name="torch_status_on">FLASHLIGHT ON</string>
+    <string name="torch_status_off">FLASHLIGHT OFF</string>
+    <string name="torch_status_unavailable">TORCH UNAVAILABLE</string>
+    <string name="bay_occupied_desc">Bay Occupied • Physical Torch Active</string>
+    <string name="bay_unoccupied_desc">Bay Vacant • Physical Torch Off</string>
+    <string name="actuator_disclaimer">Hardware Actuator: Phone Rear LED Torch</string>
+    
+    <string name="mode_auto">AUTO</string>
+    <string name="mode_manual_on">MANUAL ON</string>
+    <string name="mode_manual_off">MANUAL OFF</string>
+    
+    <string name="permission_camera_title">Camera Permission Required</string>
+    <string name="permission_camera_desc">Camera access is required for real-time person detection and physical flashlight actuation.</string>
+    <string name="grant_permission">Grant Permission</string>
+    
+    <string name="threshold_dialog_title">Actuator &amp; Threshold Configuration</string>
+    <string name="threshold_explanation">Adjust model decision threshold (default 0.45 for high occupant recall) and debounce confirmation window.</string>
+</resources>
